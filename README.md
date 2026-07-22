@@ -5,8 +5,9 @@
 
 [![npm version](https://img.shields.io/npm/v/@seneca/vercel-provider.svg)](https://npmjs.com/package/@seneca/vercel-provider)
 [![build](https://github.com/senecajs/seneca-vercel-provider/actions/workflows/build.yml/badge.svg)](https://github.com/senecajs/seneca-vercel-provider/actions/workflows/build.yml)
-[![Known Vulnerabilities](https://snyk.io/test/github/senecajs/seneca-vercel-provider/badge.svg)](https://snyk.io/test/github/senecajs/seneca-vercel-provider)
 [![Coverage Status](https://coveralls.io/repos/github/senecajs/seneca-vercel-provider/badge.svg?branch=main)](https://coveralls.io/github/senecajs/seneca-vercel-provider?branch=main)
+[![Known Vulnerabilities](https://snyk.io/test/github/senecajs/seneca-vercel-provider/badge.svg)](https://snyk.io/test/github/senecajs/seneca-vercel-provider)
+[![DeepScan grade](https://deepscan.io/api/teams/5016/projects/19462/branches/505954/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=5016&pid=19462&bid=505954)
 [![Maintainability](https://api.codeclimate.com/v1/badges/f76e83896b731bb5d609/maintainability)](https://codeclimate.com/github/senecajs/seneca-vercel-provider/maintainability)
 
 | ![Voxgig](https://www.voxgig.com/res/img/vgt01r.png) | This open source module is sponsored and supported by [Voxgig](https://www.voxgig.com). |
